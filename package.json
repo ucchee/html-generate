@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "html-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "glob": "^7.0.6",
+    "json-2-csv": "^2.0.22",
+    "minimist": "^1.2.0",
+    "sprintf-js": "^1.0.3",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucchee/html-generate.git"
+  },
+  "author": "ucchee@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ucchee/html-generate/issues"
+  },
+  "homepage": "https://github.com/ucchee/html-generate#readme",
+}

@@ -1,0 +1,10 @@
+._*
+.DS_Store
+Thumbs.db
+.idea/
+.svn/
+_svn/
+_notes/
+node_modules/
+.sass-cache/
+!.gitkeep
